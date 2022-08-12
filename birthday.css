@@ -1,0 +1,53 @@
+.amel{
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.amh1{
+    position: absolute;
+    top: 30px;
+    left: auto;
+    right: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 100px;
+    text-align: center;
+    color: #ff0080;
+}
+
+body{
+    margin: 0;;
+}
+
+.text, .text2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 25px;
+    margin-bottom: 40px;
+    align-items: center;
+}
+.text__img{
+    width: 40%;
+}
+.text__p{
+    width: 45%;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1.8px;
+    color: #ff0080;
+}
+
+.text__p2{
+    width: 30%;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: #ff0080;
+}
+
+.text__img2{
+    width: 60%;
+}
